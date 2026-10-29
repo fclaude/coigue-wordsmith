@@ -27,7 +27,7 @@ This module needs Coigüe 0.5.0 or newer, which can give a module network access
 Coigüe shows the code first, and the network the module asks for:
 
 ```
-NETWORK: can reach api.datamuse.com (GET, HEAD)
+NETWORK: can reach api.datamuse.com (GET)
 It can read your text while its commands run, so it could send text to these hosts.
 ```
 
